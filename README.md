@@ -2,7 +2,7 @@
 <p>Eu quero ser um programador Full-Stack </p>
 <p>Brasil - São Paulo</p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Priscilla1109DeV&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Priscilla1109&show_icons=true&theme=dark)
 
 <div id="badges" >
   <a href = "https://www.linkedin.com/in/priscilla-fonseca-888b79171/">
@@ -13,8 +13,8 @@
   </a>
   <a href = "mailto:pryscyllaalves25@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
-  <a href="https://discord.gg/KAQbJyJ6" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
-  <a href="HTTPS://wa.me/5511919369878" > <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"> </a>
+  <a href="https://discord.gg/QC9jwSF2" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+  <a href="HTTPS://wa.me/5511987718213" > <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"> </a>
 
 </div>
 <h2>Tecnologias Usadas </h2>
