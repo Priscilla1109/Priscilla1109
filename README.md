@@ -37,12 +37,9 @@
 <a href="https://www.alura.com.br">
   <img src="https://cursos.alura.com.br/assets/images/logos/logo-alura.svg" alt="Alura" width="40" height="40"/>&nbsp;
 </a>
-<a href="https://www.cursoemvideo.com">
-<img src="https://yt3.ggpht.com/a/AGF-l7_dZK1YbhL-UVXQH8M1L6NEtKKTQCkhXhQ7Aw=s176-c-k-c0x00ffffff-no-rj-mo" alt="Curso em Video" width="40" height="40"/>&nbsp;
-</a>
 </div>
 <h2 align="center">Obrigado Pela visita em meu Perfil 😉!</h2>
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=iKennedyDeV&style=for-the-badge&color=brightgreen"/>
+<img src="https://komarev.com/ghpvc/?username=Priscilla1109&style=for-the-badge&color=brightgreen"/>
 </div>
 
