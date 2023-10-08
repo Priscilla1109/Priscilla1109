@@ -1,4 +1,4 @@
-<h2 >Olá eu sou Renan Kenedy 🧑🏻!!</h2>
+<h2 >Olá eu sou Priscilla Fonseca 🐢!!</h2>
 <p>Eu quero ser um programador Full-Stack </p>
 <p>Brasil - São Paulo</p>
 
@@ -24,7 +24,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
   
 </div>
 
