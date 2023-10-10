@@ -1,5 +1,5 @@
 <h2 align="center" >Olá eu sou Priscilla Fonseca 🐢!!</h2>
-<p align="center">Eu quero ser um programador Full-Stack </p>
+<p align="center">Eu quero ser uma programadora Full-Stack </p>
 <p align="center" >Brasil - São Paulo</p>
 
 <div align="center"> 
